@@ -1,0 +1,2 @@
+# JSX stands for JavaScript XML
+# JSX allows us to write and add HTML in React.

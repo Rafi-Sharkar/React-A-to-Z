@@ -1,0 +1,16 @@
+# What is React?
+=> - React is a flexible, efficient, open-source, JavaScript library
+   - It was developed by Facebook back in 2013 for building user interfaces(front end).
+   - Facebook Software Engineer, Jordan Walke, created it.
+
+# Why react?
+=> - It allows us to create a complex UI by making components (small & isolated pieces of code)
+   - components are reusable
+   - component are HTML, CSS, JavaScript
+
+=> 1. Reusable component
+   2. Load fast
+   3. External plugin
+   4. Around 45% of world's website use React.
+   5. Major brands like Facebook, Instagram, Yahoo, Netflix, Airbnb, Dropbox using react.
+   

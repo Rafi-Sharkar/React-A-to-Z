@@ -1,0 +1,4 @@
+For react
+
+-> IDE ( VS CODE)
+-> Node.js
