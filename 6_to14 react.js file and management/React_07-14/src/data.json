@@ -1,0 +1,22 @@
+[
+    {
+        "title" : "Profile",
+        "descripiton" : "dic_01"
+    },    
+    {
+        "title" : "Education",
+        "descripiton" : "dic_02"
+    },    
+    {
+        "title" : "Family",
+        "descripiton" : "dic_03"
+    },    
+    {
+        "title" : "Friends",
+        "descripiton" : "dic_04"
+    },    
+    {
+        "title" : "Contact",
+        "descripiton" : "dic_05"
+    }   
+]
